@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="file:///C:\Users\Mangla\git"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.reflog.RefSelectionDialog.dialogBounds">
+		<item value="875" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="585" key="DIALOG_HEIGHT"/>
+		<item value="534" key="DIALOG_X_ORIGIN"/>
+		<item value="131" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\Mangla\.git\.git">
+			<item value="false"/>
+			<item value="mangla17 &lt;mangla.chaturvedi17@gmail.com&gt;"/>
+			<item value="training test"/>
+			<item value="mangla17 &lt;mangla.chaturvedi17@gmail.com&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+		</list>
+		<list key="C:\Users\Mangla\git\.git">
+			<item value="false"/>
+			<item value="mangla17 &lt;mangla.chaturvedi17@gmail.com&gt;"/>
+			<item value="# WARNING: head commit changed in the meantime&#x0D;&#x0A;&#x0D;&#x0A;This is TrainingTest project&#x0D;&#x0A;&#x0D;&#x0A;Signed-off-by: mangla17 &lt;mangla.chaturvedi17@gmail.com&gt;"/>
+			<item value="mangla17 &lt;mangla.chaturvedi17@gmail.com&gt;"/>
+			<item value="cb41ad5d394f0b19e96a1bb3cf6f755863c4245e"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="747,252" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>

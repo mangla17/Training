@@ -1,0 +1,3 @@
+D:\IBM\workspace\RadicalSelenium1>java -cp "D:\IBM\workspace\RadicalSelenium1\lib\
+*";"D:\IBM\workspace\RadicalSelenium1\bin" org.testng.TestNG D:\IBM\workspace\Rad
+icalSelenium1\src\TestNGExample\ParallelExecution_classes.xml
